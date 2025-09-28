@@ -4,7 +4,7 @@ A RESTful backend for a movie-rental service. It lets clients **register/login u
 
 ---
 
-## ✨ Features
+## Features
 
 - **Users**
   - Register with email/password (PBKDF2 hashing + salt)
