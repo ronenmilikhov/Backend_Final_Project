@@ -1,0 +1,72 @@
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.csproj.AssemblyReference.cache
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.AssemblyInfoInputs.cache
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.AssemblyInfo.cs
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.csproj.CoreCompileInputs.cache
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\appsettings.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.staticwebassets.endpoints.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.exe
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.deps.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.runtimeconfig.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.dll
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.pdb
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ronen\Desktop\HW1RentableMovies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\scopedcss\bundle\HW1RentableMovies.styles.css
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.HW1RentableMovies.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.HW1RentableMovies.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.build.HW1RentableMovies.props
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HW1RentableMovies.props
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HW1RentableMovies.props
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1Renta.523C8A80.Up2Date
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.dll
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\refint\HW1RentableMovies.dll
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.pdb
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.genruntimeconfig.cache
+C:\Users\Ronen\Desktop\HW1RentableMovies\obj\Debug\net6.0\ref\HW1RentableMovies.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\appsettings.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.staticwebassets.endpoints.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.exe
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.deps.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.runtimeconfig.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\HW1RentableMovies.pdb
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.csproj.AssemblyReference.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.AssemblyInfoInputs.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.AssemblyInfo.cs
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.csproj.CoreCompileInputs.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\scopedcss\bundle\HW1RentableMovies.styles.css
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.HW1RentableMovies.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.HW1RentableMovies.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.build.HW1RentableMovies.props
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HW1RentableMovies.props
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HW1RentableMovies.props
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1Renta.523C8A80.Up2Date
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\refint\HW1RentableMovies.dll
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.pdb
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\HW1RentableMovies.genruntimeconfig.cache
+C:\Users\Ronen\OneDrive\שולחן העבודה\HW1RentableMovies\obj\Debug\net6.0\ref\HW1RentableMovies.dll
